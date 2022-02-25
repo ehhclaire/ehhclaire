@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b876d&height=300&section=header&text=ehhclaire&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=444444">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=90a4ae&height=300&section=header&text=ehhclaire&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=444444">
   <br/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
@@ -36,7 +36,6 @@
 - 💻 Netflix
 - 🍁 Canada
 
-<br/>
 <br/>
 <br/>
 
