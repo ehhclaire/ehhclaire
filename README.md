@@ -27,7 +27,7 @@
 - 🎓 SSAFY6 (2021.07 ~ now)
 - Frontend Developer at Vinple (Vancouver) (2019.01 ~ 2019.12)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ehhclaire&show_icons=true&theme=dark">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ehhclaire&show_icons=true&theme=dark" style="width: 400px;">
 
 <br/>
 
