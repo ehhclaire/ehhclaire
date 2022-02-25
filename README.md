@@ -24,8 +24,9 @@
 <br/>
 
 ### Experience
-- 🎓 SSAFY6 (2021.07 ~ now)
+- 🎓 SSAFY 6기 (2021.07 ~ now)
 - Frontend Developer at Vinple (Vancouver) (2019.01 ~ 2019.12)
+- Study Digital Marketing (Vancouver) (2019.01 ~ 2019.06)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ehhclaire&show_icons=true&theme=dark" style="width: 400px;">
 
