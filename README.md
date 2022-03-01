@@ -25,7 +25,7 @@
 
 ### Experience
 - 🎓 SSAFY 6기 (2021.07 ~ now)
-- Frontend Developer at Vinple (Vancouver) (2019.01 ~ 2019.12)
+- Frontend Developer at BASE (Vancouver) (2019.01 ~ 2019.12)
 - Study Digital Marketing at Cornerstone International <br/>
   Community College of Canada (Vancouver) (2019.01 ~ 2019.06)
 
